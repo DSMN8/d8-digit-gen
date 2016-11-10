@@ -1,0 +1,33 @@
+{
+  "name": "d8-digit-gen",
+  "version": "0.1.0",
+  "description": "Digit Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab test/"
+  },
+  "engines": {
+    "node": ">=v4.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSMN8/d8-digit-gen"
+  },
+  "keywords": [
+    "Digit Generator"
+  ],
+  "author": {
+    "name": "DSMN8",
+    "email": "admin@dsmn8.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/DSMN8/d8-digit-gen#readme",
+  "private": false,
+  "devDependencies": {
+    "code": "3.0.0",
+    "dotenv": "2.0.0",
+    "lab": "10.7.1"
+  },
+  "dependencies": {
+  }
+}
